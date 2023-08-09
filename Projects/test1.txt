@@ -1,0 +1,3 @@
+Data science - creating folders in repository, include slash at last it will create folders, give file type also,  cannot be empty so putting something in this txt file , 
+first creating repository, create new file >> which is the folder and slash which is the file 
+test1 files resides within projects folder inside datascience repository 
